@@ -1,6 +1,7 @@
 # Password_Generator1
 Rather than think, better than generate a password automatically.
 
+ENGLISH:
 To generate a password quicker, thus, faster, rather than finding some characters for you to think. Although, we could just type the keyboard randomly. 
 
 RUSSIAN:
